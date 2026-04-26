@@ -1,0 +1,16 @@
+ Moi!: 0.00s – 0.50s
+ Minä: 1.02s – 1.24s
+ olen: 1.24s – 1.40s
+ Luka.: 1.40s – 2.00s
+ Olen: 2.52s – 2.64s
+ juuri: 2.64s – 2.98s
+ muuttanut: 2.98s – 3.44s
+ Suomeen.: 3.44s – 4.48s
+ Kuuntele: 4.72s – 5.10s
+ minun: 5.10s – 5.38s
+ tarinaa: 5.38s – 6.00s
+ ja: 6.00s – 6.10s
+ opi: 6.10s – 6.42s
+ samalla: 6.42s – 6.88s
+ Suomea.: 6.88s – 7.96s
+ www.puhuu.fi: 9.00 s - 11.13s
